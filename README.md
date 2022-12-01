@@ -1,10 +1,12 @@
 # Java AWS Athena
-Java program that connect to AWS Athena through JDBC
+Java program that connects to AWS Athena via JDBC and assembles the object going through all operations such as insert, update, and delete
 
 ----------
 
-## Athena JDBC Driver
+## Dependencies
 
-Add the Athena JDBC driver as a module dependency in the project
+Add the following libraries found in the "libraries" folder as module dependencies in the project
+- AthenaJDBC42-2.0.33.jar
+- gson-2.9.0.jar
 
 ----------
