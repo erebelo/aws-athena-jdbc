@@ -1,5 +1,5 @@
 # Java AWS Athena
-Java program that connects to AWS Athena via JDBC and assembles the object going through all operations such as insert, update, and delete
+Java program that connects to AWS Athena via JDBC and assembles an object going through all operations such as insert, update, and delete
 
 ----------
 
