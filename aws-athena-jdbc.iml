@@ -10,7 +10,16 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/AthenaJDBC42-2.0.33.jar!/" />
+          <root url="jar://$MODULE_DIR$/libraries/AthenaJDBC42-2.0.33.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libraries/gson-2.9.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

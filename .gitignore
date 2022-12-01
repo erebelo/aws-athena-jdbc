@@ -127,6 +127,7 @@ fabric.properties
 # Package Files #
 *.jar
 !AthenaJDBC42-2.0.33.jar
+!gson-2.9.0.jar
 *.war
 *.nar
 *.ear
